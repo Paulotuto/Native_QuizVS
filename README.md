@@ -19,7 +19,7 @@ QuizVs is a project that combines JavaScript, PHP, SQL, and HTML to create an on
 2. Submit your answers and see your score at the end of the quiz.
 
 ## Getting Started:
-Open your preferred web browser and search for ```https://ptallon.lpmiaw.univ-lr.fr/QuizVs/
+Open your preferred web browser and search for https://ptallon.lpmiaw.univ-lr.fr/QuizVs/
 
 
 Enjoy the quizzes and have fun testing your knowledge across different categories! 🧠🎓
