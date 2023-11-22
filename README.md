@@ -19,11 +19,7 @@ QuizVs is a project that combines JavaScript, PHP, SQL, and HTML to create an on
 2. Submit your answers and see your score at the end of the quiz.
 
 ## Getting Started:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Paulotuto/QuizVs.git
-   cd QuizVs```
+Open your preferred web browser and search for ```https://ptallon.lpmiaw.univ-lr.fr/QuizVs/
 
-Open the index.html file in your preferred web browser.
 
 Enjoy the quizzes and have fun testing your knowledge across different categories! 🧠🎓
